@@ -1,3 +1,7 @@
+## 🌐 Live Demo
+
+**[View CropFresh Manager](https://shreyasys2397.github.io/CropFresh-Manager/)**
+
 # 🌱 AgriVault: CropFresh Manager
 
 **Smart Crop Shelf-Life, Storage Monitoring and Inventory Management System**
@@ -213,10 +217,18 @@ By combining shelf-life tracking, environmental monitoring, stock management and
 - Advanced crop storage analytics.
 
 ---
+Live URL:
+
+https://shreyasys2397.github.io/CropFresh-Manager/
+
+---
+
 
 ## 👨‍💻 Developed By
 
-**AgriVault Project Team**
+**Shreyas Y S**
+
+GitHub: [@shreyasys2397](https://github.com/shreyasys2397)
 
 ---
 
